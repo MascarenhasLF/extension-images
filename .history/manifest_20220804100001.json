@@ -1,0 +1,7 @@
+{
+    "name": "Escolha sua imagem",
+    "description": "Escolha uma imagem para alterar todas da página",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": ["activeTab,"]
+}
